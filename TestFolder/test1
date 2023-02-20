@@ -7,7 +7,7 @@ class Swapping {
         int temp = a + b;
         a = temp - a;
         b = temp - b;
-        System.out.println("a"+a);
-        System.out.println("b"+b);
+        System.out.println("a"+a+":"+"b"+b);
+        
     }
 }
